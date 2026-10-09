@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Crazy MM & Exchange
+# 🛡️ AutoMM Escrow
 
 **A feature-rich Discord escrow bot for Litecoin (LTC) & Bitcoin (BTC) deals.**
 
@@ -199,6 +199,6 @@ Released under the **MIT License**.
 
 <div align="center">
 
-**Made with 💜 for the Crazy MM & Exchange community.**
+**Made with 💜 for the AutoMM community.**
 
 </div>
