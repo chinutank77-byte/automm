@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Runtime data / logs
+logs/
+*.log
+data/
+*.db
+
+# Backups (runtime transaction data)
+/backup/
+/detail_backup/
+/backup_manager/detail_backup/
+
+# OS
+Thumbs.db
+.DS_Store
